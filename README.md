@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE:25-11-2024
+### DATE: 25-11-2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,7 +47,7 @@
 
 ## Output:
 
-![Uploading EMPD ex 3.png…]()
+![EMPD ex 3](https://github.com/user-attachments/assets/173badfd-015f-4291-8ca5-4bfaacab26cc)
 
 ### Name:Junaid Sardar
 ### Register Number:24003934
