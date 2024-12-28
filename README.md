@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE:25-11-2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Uploading EMPD ex 3.png…]()
+
+### Name:Junaid Sardar
+### Register Number:24003934
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
